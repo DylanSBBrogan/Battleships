@@ -24,9 +24,10 @@ numpy
 
 ____Contributing____
 if you run into errors or have any ideas for changes feel free to email me
-at db750@exeter.ac.uk
+at brogan.dylan1@gmail.com
 
 ____License____
 University of Exeter
+
 
 

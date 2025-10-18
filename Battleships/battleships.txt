@@ -1,0 +1,5 @@
+Destroyer: 2, 
+Submarine: 3, 
+Cruiser: 3, 
+Battleship: 4, 
+Aircraft Carrier: 5
